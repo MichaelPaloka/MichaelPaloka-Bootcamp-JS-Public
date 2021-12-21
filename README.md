@@ -1,1 +1,0 @@
-# MichaelPaloka-Bootcamp-JS-Public
